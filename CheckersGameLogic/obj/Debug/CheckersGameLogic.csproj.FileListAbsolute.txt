@@ -1,0 +1,6 @@
+C:\Users\Shai\Desktop\Studies\C#\מטלה 5\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\CheckersGameLogic\bin\Debug\CheckersLogic.dll
+C:\Users\Shai\Desktop\Studies\C#\מטלה 5\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\CheckersGameLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\Shai\Desktop\Studies\C#\מטלה 5\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\CheckersGameLogic\obj\Debug\CheckersGameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Shai\Desktop\Studies\C#\מטלה 5\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\CheckersGameLogic\obj\Debug\CheckersGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Shai\Desktop\Studies\C#\מטלה 5\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\CheckersGameLogic\obj\Debug\CheckersLogic.dll
+C:\Users\Shai\Desktop\Studies\C#\מטלה 5\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\B18 Ex05 ShaiIsraeli 201312196 TamirSchwarzberg 302325493\CheckersGameLogic\obj\Debug\CheckersLogic.pdb
